@@ -1,0 +1,28 @@
+﻿@page "/fileinput"
+@using SubirPdfCliente.Service
+@inject IUploadFile iFileupload
+
+
+<h3>FileUpload</h3>
+
+<BlazorInputFile.InputFile OnChange="SubirPdf"></BlazorInputFile.InputFile>
+
+@if (file != null)
+{
+    <p>file.Type</p>
+}
+
+@code {
+    IFileListEntry file;
+    async Task SubirPdf(IFileListEntry[] list)
+    {
+        file = list.FirstOrDefault();
+        if (file != null)
+        {
+            if (file.Type=="application/pdf")
+            {
+                await iFileupload.uploadFile(file);
+            }
+        }
+    }
+}

@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = SubirPdfCliente
+build_property.RootNamespace = SubirPdfCliente
+build_property.ProjectDir = C:\workspace\Desarrollo\NET\ASP\SubirPdf\SubirPdfCliente\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\workspace\Desarrollo\NET\ASP\SubirPdf\SubirPdfCliente
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/FileUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlsZVVwbG9hZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rlmm18g83w
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-5fi5l0ndbx
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/workspace/Desarrollo/NET/ASP/SubirPdf/SubirPdfCliente/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
